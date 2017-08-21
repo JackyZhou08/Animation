@@ -15,4 +15,5 @@ public class MainActivity extends AppCompatActivity {
         AnimationDrawable animationDrawable1 = (AnimationDrawable) animationImg1.getDrawable();
         animationDrawable1.start();
     }
+
 }
